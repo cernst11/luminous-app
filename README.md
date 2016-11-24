@@ -1,5 +1,5 @@
 
-luminous-app
+#luminous-app
 
 This is the application shell for the collection of luminous elements which communicate with the luminous-controller app on a raspberry pi,
 
