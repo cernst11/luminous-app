@@ -3,6 +3,7 @@
 
 This is the application shell for the collection of luminous elements which communicate with the luminous-controller app on a raspberry pi,
 
+![Alt text](https://cloud.githubusercontent.com/assets/5846458/20641815/bdce504e-b3c5-11e6-9ca4-852f7fc538d6.png?raw=true "Lights Main Page") ![Alt text](https://cloud.githubusercontent.com/assets/5846458/20641817/c1488c76-b3c5-11e6-81af-90504bd32ca5.png?raw=true "Lights Main Page")
 
 ### Configure Application
     
