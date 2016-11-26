@@ -1,7 +1,7 @@
 
 #luminous-app
 
-This is the application shell for the collection of luminous elements which communicate with the luminous-controller app on a raspberry pi,
+This is the application shell for the collection of luminous elements which communicate with the luminous-controller app on a raspberry pi
 
 ![Alt text](https://cloud.githubusercontent.com/assets/5846458/20641815/bdce504e-b3c5-11e6-9ca4-852f7fc538d6.png?raw=true "Lights Main Page") ![Alt text](https://cloud.githubusercontent.com/assets/5846458/20641817/c1488c76-b3c5-11e6-81af-90504bd32ca5.png?raw=true "Lights Main Page")
 
@@ -11,7 +11,7 @@ This is the application shell for the collection of luminous elements which comm
 Currently there is no ui or automatic discovery of devices so we need to manually configure each luminous-chrome element for each device.
 
     open src/my-lights.html
-    add the luminous-chrome element with the deviceurl parameter under the closing style tag,
+    add the luminous-chrome element with the deviceurl parameter under the closing style tag
 
 A configured element looks like the following
     `<luminous-chrome deviceurl="http://192.168.1.112:3000"></luminous-chrome>`
