@@ -16,7 +16,7 @@
     "iron-selector": "PolymerElements/iron-selector#^1.0.0",
     "paper-icon-button": "PolymerElements/paper-icon-button#~1.1.0",
     "polymer": "Polymer/polymer#^1.6.0",
-    "luminous-chrome": "^0.0.12"
+    "luminous-chrome": "^0.0.13"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
